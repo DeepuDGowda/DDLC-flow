@@ -23,13 +23,13 @@
     "hub-mdmcvb1": {
       "id": "hub-mdmcvb1",
       "label": "Technical Writer",
-      "content": "The technical writer will act as bridge between the developer who build a product and the use who use it.",
+      "content": "The technical writer will act as bridge between the developer who build a product and the user who use it.",
       "type": "hub",
       "parentId": "root-03oqmq3",
       "children": [
         "child-cmnhgfy"
       ],
-      "collapsed": true,
+      "collapsed": false,
       "shape": "circle",
       "w": 75,
       "h": 25,
