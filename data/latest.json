@@ -2,7 +2,7 @@
   "v": 9,
   "rootId": "root-03oqmq3",
   "hubId": "hub-mdmcvb1",
-  "selectedId": "child-62wenmo",
+  "selectedId": "hub-mdmcvb1",
   "nodes": {
     "root-03oqmq3": {
       "id": "root-03oqmq3",
@@ -23,13 +23,13 @@
     "hub-mdmcvb1": {
       "id": "hub-mdmcvb1",
       "label": "Technical Writer",
-      "content": "The technical writer will act as bridge between the people who build a product and the people who use it.",
+      "content": "The technical writer will act as bridge between the developer who build a product and the use who use it.",
       "type": "hub",
       "parentId": "root-03oqmq3",
       "children": [
         "child-cmnhgfy"
       ],
-      "collapsed": false,
+      "collapsed": true,
       "shape": "circle",
       "w": 75,
       "h": 25,
